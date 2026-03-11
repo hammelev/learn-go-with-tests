@@ -1,4 +1,4 @@
-package pointersErrors
+package main
 
 import (
 	"errors"

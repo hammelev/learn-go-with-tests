@@ -1,6 +1,8 @@
-package iteration
+package main
 
-import "strings"
+import (
+	"strings"
+)
 
 func Repeat(stringToRpeat string, repeatCount int) string {
 	var repeated strings.Builder

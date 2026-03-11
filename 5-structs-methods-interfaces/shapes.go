@@ -1,6 +1,8 @@
-package structsMethodsInterfaces
+package main
 
-import "math"
+import (
+	"math"
+)
 
 type Shape interface {
 	Area() float64

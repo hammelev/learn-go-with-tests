@@ -1,4 +1,4 @@
-package arraySlices
+package main
 
 import (
 	"slices"
